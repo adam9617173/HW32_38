@@ -12,5 +12,15 @@ public class Student {
         sd1.setsdcontry("");
         sd1.setbkID(0);
         sd1.showInfo();
+
+        sd2.setsdname("");
+        sd2.setsdcontry("");
+        sd2.setbkID(0);
+        sd2.showInfo();
+
+        sd3.setsdname("");
+        sd3.setsdcontry("");
+        sd3.setbkID(0);
+        sd3.showInfo();
     }
 }
